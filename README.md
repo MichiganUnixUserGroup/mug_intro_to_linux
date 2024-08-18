@@ -14,7 +14,5 @@ Here's what we've come up with:
 - Users and Groups
 - Filesystems
 - File and Directory ownership and permissions (chown,chgrp,chmod,...)
-- Links and Symbolic Links
+- Hard links and Symbolic Links
 - Privilege escalation with sudo
-
-
