@@ -1,0 +1,17 @@
+### Entering Commands at the Command Line 
+- Unix/Linux installed either with a window system or text command line only
+	- all can open a command line shell for interacting with the system
+	- commonly called a terminal, a carry over from mainframe days
+- terminal, shell, or command line allows textual interation with the system
+	- different shells have subtle differences, but for the most part are the same.
+	- entering commands
+	- error reporting for invalid or incomplete commands and other errors
+	- display of output
+- accessing terminal demo and command line description 
+	- Common prompt items ($ and #)
+	- simple command line editing (Bash - typical Linux shell)
+		- up/down arrows
+		- Ctrl-A start of line
+		- Ctrl-E end of line
+		- Ctrl-U erase to beginning
+		- Meta(Alt)-F/B forward/backward one word
