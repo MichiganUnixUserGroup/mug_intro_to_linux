@@ -2,10 +2,10 @@
 
 The Linux filesystem is structured as a hierarchical tree with the root directory (/) at the top. All other directories and files branch from this root, organized into standard directories like:
 
-	•	/home: User home directories, where personal files and settings are stored.
-	•	/etc: Configuration files for the system and software.
-	•	/bin and /usr/bin: Essential system and user program binaries.
-	•	/var: Logs and other variable data files.
+• `/home`: User home directories, where personal files and settings are stored.  
+• `/etc`: Configuration files for the system and software.  
+• `/bin` and `/usr/bin`: Essential system and user program binaries.  
+• `/var`: Logs and other variable data files.  
 
 Basic Commands for Navigating and Managing Files:
 
