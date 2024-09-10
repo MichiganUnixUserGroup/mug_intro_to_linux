@@ -9,6 +9,6 @@ Here's what we've come up with:
 - Filesystems - Justin
 - Users, Groups, permissions and sudo - Dave
 - Intro to package installation - Joe
+- ssh and remote file copy (sftp,scp) - Justin (Jim)
 - Getting started editing files - Wolf
-- ssh and remote file copy (sftp,scp) - Justin
 - Questions and Answers
