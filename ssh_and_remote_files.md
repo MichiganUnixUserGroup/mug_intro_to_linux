@@ -22,13 +22,13 @@ Once connected via SSH, you can perform various tasks on the remote system as if
 
 Some common SSH features include:
 
-	•	Remote command execution: You can run commands on the remote system without logging in interactively, like this:
+Remote command execution: You can run commands on the remote system without logging in interactively, like this:
 
 ```
 ssh username@hostname "command"
 ```
 
-	•	File transfer: SSH supports secure file transfers using tools like SCP (Secure Copy) and SFTP (Secure File Transfer Protocol). For example, to copy a file from your local machine to a remote server using SCP:
+File transfer: SSH supports secure file transfers using tools like SCP (Secure Copy) and SFTP (Secure File Transfer Protocol). For example, to copy a file from your local machine to a remote server using SCP:
 
 ```
 scp localfile username@hostname:/path/to/destination
